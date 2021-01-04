@@ -1,0 +1,18 @@
+python version == Python 3.8.5
+
+python install packages for the projects are:
+
+>>>>>gTTS version == gTTS 2.1.1
+>>>>>openCV version == opencv-python 4.3.0.36
+>>>>>Pillow version == Pillow 7.2.0
+>>>>>pygame version == pygame 1.9.6
+>>>>>PyPDF version == PyPDF2 1.26.0
+>>>>>pytesseract version == pytesseract 0.3.4
+>>>>>selenium version == selenium 3.141.0
+>>>>>SpeechRecognition == SpeechRecognition 3.8.1
+
+python default packages that are used are :
+
+>>>>>time
+>>>>>os
+>>>>>tkinter
